@@ -86,7 +86,7 @@
       true,
       "call-signature"
     ],
-    "typedef-whitespace": {
+    /* "typedef-whitespace": {
       "options": [
         {
           "call-signature": "nospace",
@@ -103,11 +103,11 @@
           "variable-declaration": "onespace"
         }
       ]
-    },
+    }, */
     "variable-name": {
       "options": [
         "ban-keywords",
-        "check-format",
+        // "check-format",
         "allow-pascal-case"
       ]
     },
